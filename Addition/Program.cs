@@ -12,7 +12,7 @@ namespace Addition
         {
             int operand1=1;
             int operand2 = 2;
-            Console.WriteLine((operand1 + operand2).ToString()+ "how is that cool dude check that out after the plugin test");
+            Console.WriteLine((operand1 + operand2).ToString()+ "how is that cool dude check that out after the plugin test gitlab");
         }
     }
 }
